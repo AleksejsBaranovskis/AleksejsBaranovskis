@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💪
 - 🚀
 -->
-<img alt="pepe" src="https://steamuserimages-a.akamaihd.net/ugc/857235064004414962/D309230A0821BE7B9B856A03B8BD271DF2060C29/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
+<img alt="pepe" src="" />
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
