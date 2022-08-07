@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-764ABC?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/CSS-1a73e8?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 </p>
 
 <h3>Open source projects</h3>
